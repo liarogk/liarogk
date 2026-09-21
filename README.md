@@ -5,7 +5,6 @@ Undergrad in the Bioinformatics department majoring in applied robotics in medic
 
 - 🔭 I’m currently working on expanding my coding skills and building robotic innovations for the world of medicine.
 - 🌱 I’m currently learning to code on my ESP32 platform.
-- 🛠️ Latest Project: [Weather Dashboard](https://heartfelt-lollipop-f788ff.netlify.app) ([Repository](https://github.com/YOUR_USERNAME/weather-dashboard))
 - 💬 Ask me about puzzles.
 - ⚡ Fun fact: I can solve puzzles really fast.
 
