@@ -15,13 +15,7 @@
 <p align="center">Welcome to dimension C-137's most chaotic developer profile.</p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liarogk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liarogk&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
----
+
 ## Hi there 👋
 
 Undergrad in the Bioinformatics department majoring in applied robotics in medicine.
