@@ -7,11 +7,21 @@
   <img src="https://media.giphy.com/media/3oKIPEhWqjXaoG5qCo/giphy.gif" width="100%" alt="Rick and Morty Portal">
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&height=50&lines=Wubba+Lubba+Dub+Dub!;Building+Robotics+in+Dimension+C-137;Always+look+for+portal+fluid." alt="Typing SVG" />
+</div>
+
 <h1 align="center">Wubba Lubba Dub Dub, Traveller! 🛸</h1>
 <p align="center">Welcome to dimension C-137's most chaotic developer profile.</p>
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=liarogk&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liarogk&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+---
 ## Hi there 👋
 
 Undergrad in the Bioinformatics department majoring in applied robotics in medicine.
