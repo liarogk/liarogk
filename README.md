@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEhWqjXaoG5qCo/giphy.gif" width="100%" alt="Rick and Morty Portal">
+</p>
+
+<h1 align="center">Wubba Lubba Dub Dub, Traveller! 🛸</h1>
+<p align="center">Welcome to dimension C-137's most chaotic developer profile.</p>
+
+---
+
 ## Hi there 👋
 
 Undergrad in the Bioinformatics department majoring in applied robotics in medicine.
