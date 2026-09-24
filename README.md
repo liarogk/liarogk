@@ -1,3 +1,8 @@
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=180&section=header&text=Wubba%20Lubba%20Dub%20Dub!&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+</div>
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPEhWqjXaoG5qCo/giphy.gif" width="100%" alt="Rick and Morty Portal">
 </p>
