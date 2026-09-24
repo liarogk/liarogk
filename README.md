@@ -29,3 +29,8 @@ Undergrad in the Bioinformatics department majoring in applied robotics in medic
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Dimension-C--137-00FF66?style=for-the-badge&logo=rickandmorty&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portal_Fluid-Active-39FF14?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Brain_Capacity-Hive_Mind-9400D3?style=for-the-badge&logo=codesignal&logoColor=white" />
+</p>
